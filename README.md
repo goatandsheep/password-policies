@@ -31,6 +31,8 @@ As this is WIP, here are some of the resources I'm pulling from:
   * Minimum: 8
   * Maximum: 60
   * All ASCII
+* [OpenSports](https://opensports.ca/)
+  * Maximum: 25
 * [PDF Encryption](https://www.pdflib.com/knowledge-base/pdf-security/encryption/)
   * Version 0-1.6
     * All Latin-1
