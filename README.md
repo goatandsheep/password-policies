@@ -1,6 +1,6 @@
 # Password Policies
 
-##Introduction
+## Introduction
 
 All websites should say what their password restrictions are right away. It's infuriating when you try a password and it doesn't say the restrictions. In response, thiis is a public list of password restrictions for all websites. Please make a pull request or issue to add to this list! If you don't know, don't worry; just add what you know. Maybe this could become a front-end checker to see if your password will meet restrictions.
 
@@ -25,7 +25,7 @@ As this is WIP, here are some of the resources I'm pulling from:
 * https://answers.yahoo.com/question/index?qid=20111027160022AARYoah
 * http://www.passwordpit.com/adobe-password-requirements/
 
-##List
+## List
 
 * [Google](https://support.google.com/a/answer/33386?hl=en)
   * Minimum: 8
